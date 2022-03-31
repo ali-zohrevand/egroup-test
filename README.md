@@ -1,6 +1,6 @@
 ### environment variables
-* PROJECTS-NUMBER
-* API-PATH
+* PROJECTS-NUMBER - default=5
+* API-PATH - default=https://gitlab.com/api/graphql
 ### Example Output
 ```
 Last Projects in Gitlab
